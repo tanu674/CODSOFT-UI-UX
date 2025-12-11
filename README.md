@@ -8,3 +8,8 @@ View the design here:
 View the design here:
 👉 [Open Figma](https://www.figma.com/design/Ouf3bnBpUZHDBUnKTXNknP/menu-design?node-id=1016-276&m=dev&t=Ls98hjEHbNg1XOc4-1)
 
+# CODSOFT-UI-UX
+##  Figma Design 3 
+View the design here:
+👉 [Open Figma](https://www.figma.com/design/Y2JbPOqWpYJS4rdEv1qYn2/E-Commerce-Plant-Shop?node-id=17-40&m=dev&t=wZyeXieff7TArpdq-1)
+
